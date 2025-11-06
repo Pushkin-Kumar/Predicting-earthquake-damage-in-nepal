@@ -98,6 +98,10 @@ By combining linear and tree-based models, we can **predict high-risk buildings*
 - scikit-learn (LogisticRegression, DecisionTreeClassifier, pipelines)  
 - category_encoders (OneHotEncoder, OrdinalEncoder)  
 
+---
 
-
-
+## ✨ Author
+**Pushkin Kumar**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pushkin-kumar)
+_Data Analyst | Data Engineer_  
+Passionate about building modern data pipelines and predictive models.
